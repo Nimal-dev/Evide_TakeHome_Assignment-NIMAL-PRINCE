@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:evde_takehome/screens/busStopList.dart';
-import 'package:evde_takehome/utilities/BusStop.dart';
+import 'package:evde_takehome/utilities/BusStops.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
