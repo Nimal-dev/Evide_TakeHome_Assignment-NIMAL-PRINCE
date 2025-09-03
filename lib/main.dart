@@ -1,4 +1,5 @@
 import 'package:evde_takehome/screens/homepage.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Evide Assignment- NIMAL PRINCE',
+      title: 'Bus Tracker - Immersive UI',
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
