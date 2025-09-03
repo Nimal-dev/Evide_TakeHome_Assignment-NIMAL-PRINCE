@@ -1,3 +1,4 @@
+import 'package:evde_takehome/screens/stopDetails.dart';
 import 'package:evde_takehome/utilities/BusStops.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
